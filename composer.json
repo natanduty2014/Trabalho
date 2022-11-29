@@ -1,0 +1,14 @@
+{
+    "name": "vibecriativa/app",
+    "description": "Api com slim framwork e psr4 - VibeCriativa",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Natanyel Monteiro"
+        }
+    ]
+}
